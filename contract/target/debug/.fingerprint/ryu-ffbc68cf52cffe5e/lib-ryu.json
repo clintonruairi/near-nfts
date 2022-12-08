@@ -1,0 +1,1 @@
+{"rustc":11656139383424705615,"features":"[]","target":17765967445257618929,"profile":3735503092003429423,"path":359496596703674283,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/ryu-ffbc68cf52cffe5e/dep-lib-ryu"}}],"rustflags":["-C","link-args=-s"],"metadata":10387617312689919117,"config":2202906307356721367,"compile_kind":0}
